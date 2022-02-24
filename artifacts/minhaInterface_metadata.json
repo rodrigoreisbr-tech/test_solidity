@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"1 - Estrutura de um Contrato.sol": "minhaInterface"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"1 - Estrutura de um Contrato.sol": {
+			"keccak256": "0xf5a13732867d7f4bebfec77e85e9e3a6f348c5f3fbf6e9292134f4c116fb58bc",
+			"urls": [
+				"bzz-raw://98876e4093ba8351f81d1caa82d163dff208a740ad2e14b7dd3fc54387dfd375",
+				"dweb:/ipfs/QmV3wNHAJR2eR9T2gBrqvftfSn5FRCuXJhRTB2Z3GjHa2v"
+			]
+		}
+	},
+	"version": 1
+}
